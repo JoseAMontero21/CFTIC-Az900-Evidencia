@@ -115,6 +115,7 @@ Creación del Container Instance:
 Ejecución del contenedor de instancia:
 
 ![03-ContainerInstance_2](Evidencias/03-ContainerInstance_2.png)
+<<<<<<< HEAD
 
 
 
@@ -596,11 +597,17 @@ Borrado del grupo de recursos creado:
 
 ![08_16](Evidencias/08_16.png)
 
+=======
+>>>>>>> 1a7ace9cc1a8be7fb923a8d923c08688d893f527
 
 
 
 
+<<<<<<< HEAD
 # 09 - Create a VM with a Template
+=======
+![03-ContainerInstance_3](Evidencias/03-ContainerInstance_3.png)
+>>>>>>> 1a7ace9cc1a8be7fb923a8d923c08688d893f527
 
 
 
