@@ -599,13 +599,17 @@ Borrado del grupo de recursos creado:
 
 
 
-![08_16](Evidencias/08_16.png)
-
-
-
 
 
 # 09 - Create a VM with a Template
+
+
+
+
+
+
+
+# 10 - Create a VM with PowerShell
 
 
 
