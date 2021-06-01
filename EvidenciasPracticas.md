@@ -605,11 +605,119 @@ Borrado del grupo de recursos creado:
 
 
 
+![09_1](Evidencias/09_1.PNG)
+
+
+
+![09_2](Evidencias/09_2.png)
+
 
 
 
 
 # 10 - Create a VM with PowerShell
+
+
+
+![10_1](Evidencias/10_1.png)
+
+
+
+![10_2](Evidencias/10_2.png)
+
+
+
+![10_3](Evidencias/10_3.png)
+
+
+
+![10_4](Evidencias/10_4.PNG)
+
+
+
+![10_5](Evidencias/10_5.png)
+
+
+
+![10_6](Evidencias/10_6.png)
+
+
+
+![10_7](Evidencias/10_7.png)
+
+
+
+![10_8](Evidencias/10_8.PNG)
+
+
+
+![10_9](Evidencias/10_9.png)
+
+
+
+![10_10](Evidencias/10_10.png)
+
+
+
+![10_11](Evidencias/10_11.png)
+
+
+
+![10_12](Evidencias/10_12.png)
+
+
+
+![10_13](Evidencias/10_13.PNG)
+
+
+
+![10_14](Evidencias/10_14.png)
+
+
+
+![10_15](Evidencias/10_15.png)
+
+
+
+
+
+# 11 - Create a VM with the CLI
+
+
+
+![11_1](Evidencias/11_1.png)
+
+
+
+![11_2](Evidencias/11_2.png)
+
+
+
+![11_3](Evidencias/11_3.png)
+
+
+
+![11_4](Evidencias/11_4.png)
+
+
+
+![11_5](Evidencias/11_5.png)
+
+
+
+![11_6](Evidencias/11_6.png)
+
+
+
+![11_7](Evidencias/11_7.png)
+
+
+
+![11_8](Evidencias/11_8.PNG)
+
+
+
+![11_9](Evidencias/11_9.png)
 
 
 
