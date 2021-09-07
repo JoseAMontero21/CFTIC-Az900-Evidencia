@@ -727,6 +727,8 @@ Borrado del grupo de recursos creado:
 
 
 
+### Task 1: Create an Azure Key Vault
+
 ![12_1](Evidencias/12_1.png)
 
 
@@ -755,6 +757,8 @@ Borrado del grupo de recursos creado:
 
 
 
+### Task 2: Add a secret to the Key Vault
+
 ![12_8](Evidencias/12_8.png)
 
 
@@ -782,6 +786,10 @@ Borrado del grupo de recursos creado:
 ![12_14](Evidencias/12_14.png)
 
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Borrado del grupo de recursos:
 
 ![12_15](Evidencias/12_15.png)
 
@@ -871,7 +879,7 @@ Borrado del grupo de recursos creado:
 
 
 
-![13_18](Evidencias\13_18.png)
+![13_18](Evidencias/13_18.png)
 
 
 
@@ -1003,7 +1011,7 @@ Borrado del grupo de recursos creado:
 
 --------------------------------------------------------------------------------------------------------------------
 
-
+Borrado del grupo de recursos:
 
 ![13_50](Evidencias/13_50.png)
 
