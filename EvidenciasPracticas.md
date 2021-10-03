@@ -1023,6 +1023,88 @@ Borrado del grupo de recursos:
 
 
 
+# 14 - Manage access with RBAC
+
+
+
+### Task 1: View and assign roles
+
+![14_1](Evidencias/14_1.png)
+
+
+
+![14_2](Evidencias/14_2.png)
+
+
+
+![14_3](Evidencias/14_3.png)
+
+
+
+![14_4](Evidencias/14_4.png)
+
+
+
+![14_5](Evidencias/14_5.png)
+
+
+
+![14_6](Evidencias/14_6.png)
+
+
+
+![14_7](Evidencias/14_7.png)
+
+
+
+![14_8](Evidencias/14_8.png)
+
+
+
+![14_9](Evidencias/14_9.png)
+
+
+
+### Task 2: Monitor role assignments and remove a role
+
+![14_10](Evidencias/14_10.png)
+
+
+
+![14_11](Evidencias/14_11.png)
+
+
+
+![14_12](Evidencias/14_12.png)
+
+
+
+![14_13](Evidencias/14_13.png)
+
+
+
+![14_14](Evidencias/14_14.png)
+
+
+
+![14_15](Evidencias/14_15.png)
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+Borrado del grupo de recursos:
+
+![14_16](Evidencias/14_16.png)
+
+
+
+
+
+
+
+
+
 
 
 
